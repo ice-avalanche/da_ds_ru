@@ -6,7 +6,7 @@
 |----|------|--------|--------|
 | 1  | Введение в Yandex DataLens | Yandex DataLens | [Урок 1](lessons/lesson1.md) |
 | 2  | Практика в Yandex DataLens | Yandex DataLens | [Урок 2](lessons/lesson2.md) |
-| 3  | Описательная статистика и распределения | Excel | [Урок 3](lessons/lesson3.md) |
+| 3  | Описательная статистика и анализ данных | Excel | [Урок 3](lessons/lesson3.md) |
 | 4  | Вероятности и оценка риска | Excel | [Урок 4](lessons/lesson4.md) |
 | 5  | Корреляция и регрессия | Excel | [Урок 5](lessons/lesson5.md) |
 | 6  | Временные ряды и прогнозирование | Excel | [Урок 6](lessons/lesson6.md) |
