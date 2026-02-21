@@ -6,18 +6,18 @@
 |----|------|--------|--------|
 | 1  | Введение в Yandex DataLens | Yandex DataLens | [Урок 1](lessons/lesson1.md) |
 | 2  | Практика в Yandex DataLens | Yandex DataLens | [Урок 2](lessons/lesson2.md) |
-| 3  | Описательная статистика и анализ данных | Excel | [Урок 3](lessons/lesson3.md) |
-| 4  | Вероятности и оценка риска | Excel | [Урок 4](lessons/lesson4.md) |
-| 5  | Корреляция и регрессия | Excel | [Урок 5](lessons/lesson5.md) |
+| 3  | Описательная статистика и корреляция | Excel | [Урок 3](lessons/lesson3.md) |
+| 4  | Проверка гипотез и доверительные интервалы | Excel | [Урок 4](lessons/lesson4.md) |
+| 5  | Вероятности и анализ риска | Excel | [Урок 5](lessons/lesson5.md) |
 | 6  | Временные ряды и прогнозирование | Excel | [Урок 6](lessons/lesson6.md) |
-| 7  | Введение в Python для аналитики | Google Colab + Python | [Урок 7](lessons/lesson7.md) |
+| 7  | Введение в Python и Google Colab | Google Colab + Python | [Урок 7](lessons/lesson7.md) |
 | 8  | Очистка и подготовка данных | Google Colab + Python | [Урок 8](lessons/lesson8.md) |
-| 9  | Агрегации и сегментация | Google Colab + Python| [Урок 9](lessons/lesson9.md) |
+| 9  | Агрегации и сегментация данных | Google Colab + Python| [Урок 9](lessons/lesson9.md) |
 | 10 | Визуализация данных | Google Colab + Python | [Урок 10](lessons/lesson10.md) |
-| 11 | Линейная регрессия в Python | Google Colab + Python | [Урок 11](lessons/lesson11.md) |
+| 11 | Линейная регрессия | Google Colab + Python | [Урок 11](lessons/lesson11.md) |
 | 12 | Оценка качества моделей | Google Colab + Python| [Урок 12](lessons/lesson12.md) |
 | 13 | Классификация и прогноз риска | Google Colab + Python| [Урок 13](lessons/lesson13.md) |
-| 14 | Временные ряды в Python | Google Colab + Python | [Урок 14](lessons/lesson14.md) |
+| 14 | Временные ряды | Google Colab + Python | [Урок 14](lessons/lesson14.md) |
 | 15 | Решение кейсов: аналитика | Excel + Python + DataLens | [Урок 15](lessons/lesson15.md) |
 | 16 | Решение кейсов: Data Science | Excel + Python | [Урок 16](lessons/lesson16.md) |
 
